@@ -1,0 +1,9 @@
+Instale o Python
+
+1 - Abra o bot.exe
+2 - Digite o nome do campeão
+3 - Espere
+
+:)
+
+https://github.com/maxinocencio
